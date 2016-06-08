@@ -69,7 +69,7 @@ public class Bienvenidos extends javax.swing.JFrame {
         });
         getContentPane().add(acceder, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 230, 260, 100));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/proyectofinalprog/ENTRADA.jpg"))); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/ENTRADA.jpg"))); // NOI18N
         getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 700, 440));
 
         pack();
